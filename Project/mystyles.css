@@ -7,6 +7,7 @@
     padding: 14px 0;
     -webkit-text-fill-color: azure;
     background-color: rgba( 16, 16, 16, 0.85 );
+    z-index: 2;
 }
 
 #container-heading {
@@ -154,7 +155,7 @@ p {
 }
 
 .row-1 {
-    overflow: auto;
+    overflow: hidden;
     text-align: center;
 }
 
@@ -196,6 +197,10 @@ image-container {
     padding: 5px;
 }
 
+.para-info {
+    text-align: center;
+}
+
 .my-info {
     border: 1px solid black;
     text-align: left;
@@ -217,7 +222,6 @@ image-container {
 #container-position {
     position: relative;
     bottom: 19px;
-    z-index: -1;
 }
 
 .para-contain {
