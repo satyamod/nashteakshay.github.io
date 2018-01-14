@@ -133,6 +133,13 @@ input[type = "submit"], input[type = "reset"] {
     border: 1px solid rgb(39, 39, 39);
 }
 
+p {
+    margin-bottom: 21px;
+    font-size: 1em;
+    text-align: left;
+    font-family:"Times New Roman", Times, fantasy;
+}
+
 .work-expriance-container {
     text-align: center;
     background-color: gray;
@@ -143,6 +150,7 @@ input[type = "submit"], input[type = "reset"] {
     margin: 10%;
     line-height: 0%;
     padding: 0%;
+    text-align: center;
 }
 
 .row-1 {
@@ -210,13 +218,6 @@ image-container {
     position: relative;
     bottom: 19px;
     z-index: -1;
-}
-
-p {
-    margin-bottom: 21px;
-    font-size: 1em;
-    text-align: left;
-    font-family:"Times New Roman", Times, fantasy;
 }
 
 .para-contain {
