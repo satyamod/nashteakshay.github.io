@@ -152,8 +152,8 @@ input[type = "submit"], input[type = "reset"] {
 
 .row-1 .col-1:nth-child(1) {
     float: left;
-    width: 18%;
-    margin-left: 14%;
+    width: 15%;
+    margin-left: 17%;
     margin-right: 2%;
 }
 
